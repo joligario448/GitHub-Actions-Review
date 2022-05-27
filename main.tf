@@ -51,3 +51,5 @@ resource "aws_security_group" "web-sg" {
     cidr_blocks = ["24.105.88.34/32"]
   }
 }
+
+
