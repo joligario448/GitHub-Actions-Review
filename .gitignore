@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Terrefarom stuff
+.terraform
+.terraform.lock.hcl
+
 # Object files
 *.o
 *.ko
